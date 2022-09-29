@@ -1,0 +1,2 @@
+node_modules/
+# Hide node_modules dependecies directory from the project.
